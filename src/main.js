@@ -6,6 +6,8 @@ import {
   hideLoader,
 } from './js/render-functions';
 
+/*бібліотека izitoast*/
+
 import iziToast from 'izitoast';
 import 'izitoast/dist/css/iziToast.min.css';
 
